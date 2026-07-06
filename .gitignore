@@ -1,0 +1,8 @@
+.env
+*.env
+.vscode/browse.vc.db
+*.db
+
+build/
+install/
+log/
