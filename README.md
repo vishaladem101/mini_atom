@@ -1,4 +1,6 @@
 # Mini Atom
 ## Demo
 
-https://github.com/user-attachments/assets/c35eac3c-eb99-42ee-bebb-2ebe281cc79c
+https://github.com/user-attachments/assets/228bb11c-85bc-4ee5-88f6-8ebe2e608b24
+
+
